@@ -1,4 +1,4 @@
-# Laravel AI Blog Bootcamp
+# Learning PHP Laravel is a 90-hour
 
 A 90-hour intensive backend engineering training program where you'll learn PHP 8.4 and Laravel 12 by building a real AI-powered blog application.
 
