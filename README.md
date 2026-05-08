@@ -1,18 +1,68 @@
-"# Laravel AI Blog Bootcamp
+# Laravel AI Blog Bootcamp
 
-<div align="center">
+A 90-hour intensive backend engineering training program where you'll learn PHP 8.4 and Laravel 12 by building a real AI-powered blog application.
 
-[![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel)](https://laravel.com/)
-[![AI Integration](https://img.shields.io/badge/AI-OpenAI%20%26%20Claude-412991?style=flat-square&logo=openai)](https://openai.com/)
-[![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)](https://restfulapi.net/)
-[![Testing](https://img.shields.io/badge/Testing-Pest%20PHP-FF1E1E?style=flat-square)](https://pestphp.com/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)](https://github.com/features/actions)
+---
 
-**90-Hour Intensive Backend Engineering Training Program**
+## About This Training
 
-Developed by [UCAS](https://www.ucas.ac.uk/) | From Zero to Production-Ready
+This repository contains the Laravel AI Blog Bootcamp—a comprehensive training program by **UCAS** designed for fresh graduates, junior developers, and career changers. Over 90 hours, you'll progress from PHP fundamentals to deploying a production-ready AI-powered blogging platform called **WriteAI**.
 
-[Get Started](#setup-instructions) • [Tech Stack](#tech-stack) • [Roadmap](#course-roadmap) • [Project](#capstone-project)
+---
 
-</div>
+## What You'll Learn
+
+- ✅ **PHP Fundamentals** — Variables, data types, control structures, functions
+- ✅ **Object-Oriented PHP** — Classes, inheritance, interfaces, traits
+- ✅ **Laravel Basics** — Project structure, routing, service container
+- ✅ **MVC Architecture** — Models, views, controllers in practice
+- ✅ **Routing & Controllers** — Request handling and response management
+- ✅ **Blade Templates** — Dynamic view rendering with Blade syntax
+- ✅ **Database Design** — Migrations, relationships, best practices
+- ✅ **Eloquent ORM** — Query builder and model relationships
+- ✅ **Authentication & Authorization** — User authentication and role-based access
+- ✅ **REST APIs** — Building and consuming RESTful endpoints
+- ✅ **Notifications & Queues** — Async operations and job processing
+- ✅ **AI Integration** — OpenAI API integration and prompt engineering
+- ✅ **Testing with Pest PHP** — Unit and feature testing
+- ✅ **Deployment & CI/CD** — GitHub Actions and production deployment
+
+---
+
+## Capstone Project: WriteAI
+
+Students will build **WriteAI**—an AI-powered blog platform that evolves throughout the training. Features include:
+
+- 📝 AI-powered content generation
+- 🔍 Semantic search with embeddings
+- ✨ Automated SEO metadata
+- 🤖 Streaming AI assistant
+- 🔐 Role-based access control
+- 💬 Real-time notifications
+- 🔗 Complete REST API
+
+---
+
+## Repository Progress
+
+Track the bootcamp modules as they're added:
+
+- [ ] PHP Fundamentals
+- [ ] Laravel Core
+- [ ] CRUD Operations
+- [ ] Authentication & Authorization
+- [ ] REST APIs
+- [ ] AI Features & Integration
+- [ ] Testing with Pest PHP
+- [ ] Deployment & CI/CD
+
+---
+
+## Tech Stack
+
+- **PHP 8.4** — Modern backend language
+- **Laravel 12** — Web application framework
+- **MySQL** — Relational database
+- **Redis** — Caching and queues
+- **OpenAI API** — AI integration
+- **Pest PHP** — Testing framework
