@@ -1,0 +1,18 @@
+[7]Ender's Game by Orson Scott Card - 9.99 in stock: 7
+[8]The Hitchhiker's Guide to the Galaxy by Douglas Adams - 10.5 in stock: 6
+[14]A Wizard of Earthsea by Ursula K. Le Guin - 11.5 in stock: 5
+[4]Foundation by Isaac Asimov - 11.75 in stock: 2
+[16]Fahrenheit 451 by Ray Bradbury - 12.99 in stock: 4
+[17]The Dispossessed by Ursula K. Le Guin - 13.5 in stock: 3
+[12]The Martian by Andy Weir - 13.75 in stock: 8
+[10]The Left Hand of Darkness by Ursula K. Le Guin - 14 in stock: 3
+[3]Neuromancer by William Gibson - 14.99 in stock: 5
+[19]Recursion by Blake Crouch - 14.99 in stock: 6
+[18]Cloud Atlas by David Mitchell - 15.25 in stock: 2
+[11]American Gods by Neil Gaiman - 15.99 in stock: 2
+[13]Hyperion by Dan Simmons - 16.25 in stock: 1
+[20]Project Hail Mary by Andy Weir - 16.99 in stock: 9
+[6]The Name of the Wind by Patrick Rothfuss - 17.99 in stock: 4
+[1]Dune by Frank Herbert - 18.99 in stock: 3
+
+Total inventory value: $983.85

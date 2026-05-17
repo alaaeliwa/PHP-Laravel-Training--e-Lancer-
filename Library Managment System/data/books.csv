@@ -1,0 +1,21 @@
+id,title,author,genre,price,stock,isbn,year,pages,available
+1,"Dune","Frank Herbert","Science Fiction",18.99,3,978-0-441-17271-9,1965,412,true
+2,"1984","George Orwell","Dystopian Fiction",12.5,0,978-0-451-52493-5,1949,328,false
+3,"Neuromancer","William Gibson","Cyberpunk",14.99,5,978-0-441-56956-4,1984,271,true
+4,"Foundation","Isaac Asimov","Science Fiction",11.75,2,978-0-553-29335-7,1951,244,true
+5,"Snow Crash","Neal Stephenson","Cyberpunk",16.49,0,978-0-553-38095-8,1992,440,false
+6,"The Name of the Wind","Patrick Rothfuss","Fantasy",17.99,4,978-0-756-40407-1,2007,662,true
+7,"Ender's Game","Orson Scott Card","Science Fiction",9.99,7,978-0-812-55070-1,1985,352,true
+8,"The Hitchhiker's Guide to the Galaxy","Douglas Adams","Humour",10.5,6,978-0-345-39180-3,1979,193,true
+9,"Brave New World","Aldous Huxley","Dystopian Fiction",13.25,0,978-0-060-92987-7,1932,311,false
+10,"The Left Hand of Darkness","Ursula K. Le Guin","Science Fiction",14,3,978-0-441-47812-5,1969,286,true
+11,"American Gods","Neil Gaiman","Fantasy",15.99,2,978-0-380-97365-7,2001,465,true
+12,"The Martian","Andy Weir","Science Fiction",13.75,8,978-0-553-41802-6,2011,369,true
+13,"Hyperion","Dan Simmons","Science Fiction",16.25,1,978-0-385-26209-1,1989,482,true
+14,"A Wizard of Earthsea","Ursula K. Le Guin","Fantasy",11.5,5,978-0-547-73378-4,1968,183,true
+15,"The Road","Cormac McCarthy","Post-Apocalyptic",14.5,0,978-0-307-38789-9,2006,287,false
+16,"Fahrenheit 451","Ray Bradbury","Dystopian Fiction",12.99,4,978-1-451-67331-9,1953,256,true
+17,"The Dispossessed","Ursula K. Le Guin","Science Fiction",13.5,3,978-0-061-05488-7,1974,341,true
+18,"Cloud Atlas","David Mitchell","Literary Fiction",15.25,2,978-0-375-50725-5,2004,509,true
+19,"Recursion","Blake Crouch","Thriller",14.99,6,978-1-524-75667-1,2019,326,true
+20,"Project Hail Mary","Andy Weir","Science Fiction",16.99,9,978-0-593-13520-4,2021,476,true
